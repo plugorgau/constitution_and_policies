@@ -8,15 +8,16 @@ TL;DR
 -----
 Be excellent to each other.
 
-Linux Australia aims to provide fun, welcoming and professional environments so
+Perth Linux Users Group aims to provide fun, welcoming and professional environments so
 that diverse groups of people - regardless of age, race, gender identity or
 expression, background, disability, appearance, sexuality, walk of life, or
 religion - can get together to learn from and be inspired by each other about
 all things Free and Open Source.
 
-Linux Australia is committed to the ideals expressed in our Values Statement
-[http://linux.org.au/values] and ask all our members, speakers, volunteers,
-attendees and guests to adopt these principles. We are a diverse community.
+Perth Linux User Group is committed to the ideals expressed in ~~our Values Statement
+[http://linux.org.au/values]~~ **We don't have a Values Statement, although we
+could be committed to the same values as Linux Australia?** and ask all our members, speakers,
+volunteers, attendees and guests to adopt these principles. We are a diverse community.
 Sometimes this means we need to work harder to ensure we're creating an
 environment of trust and respect where all who come to participate feel
 comfortable and included.
@@ -103,8 +104,10 @@ We want everyone to have a good time at our events.
 Questions?
 ----------
 If you’re not sure about anything you’ve just read please contact the
-organisers or the Linux Australia Council at council@linux.org.au.
+organisers or the Perth Linux Users Group Committee at
+ [committee@plug.org.au](mailto:committee@plug.org.au).
 
-This document is available to be re-used or modified under the terms of the
+This document was original created by [Linux Australia](https://github.com/linuxaustralia/constitution_and_policies/blob/master/code_of_conduct.md)
+and is available to be re-used or modified under the terms of the
 Creative Commons Attribution-ShareAlike 3.0 Australia licence, available
-from https://creativecommons.org/licenses/by-sa/3.0/au/ 
+from https://creativecommons.org/licenses/by-sa/3.0/au/
