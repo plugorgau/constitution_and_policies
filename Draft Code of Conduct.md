@@ -14,9 +14,9 @@ expression, background, disability, appearance, sexuality, walk of life, or
 religion - can get together to learn from and be inspired by each other about
 all things Free and Open Source.
 
-Perth Linux User Group is committed to the ideals expressed in ~~our Values Statement
-[http://linux.org.au/values]~~ **We don't have a Values Statement, although we
-could be committed to the same values as Linux Australia?** and ask all our members, speakers,
+Perth Linux User Group is committed to the ideals expressed in our
+[Values Statement](https://github.com/plugorgau/constitution_and_policies/blob/master/values%20statement.md)
+and ask all our members, speakers,
 volunteers, attendees and guests to adopt these principles. We are a diverse community.
 Sometimes this means we need to work harder to ensure we're creating an
 environment of trust and respect where all who come to participate feel
