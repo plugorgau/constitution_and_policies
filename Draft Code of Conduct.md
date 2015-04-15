@@ -1,8 +1,8 @@
-Code of Conduct (template)
+Code of Conduct (Draft)
 ==========================
 
-This code of conduct applies to our community and serves as a template to our
-conferences.
+This code of conduct applies to our community, at our monthly talks and other
+Perth Linux Users Group events.
 
 TL;DR
 -----
@@ -61,11 +61,12 @@ We ask everyone to be aware that we will not tolerate intimidation,
 harassment, or any abusive, discriminatory or derogatory behaviour
 by anyone at any event or online.
 
-Complaints can be made to the organisers by contacting the registration desk
-or mailing list/forum moderators by contacting the relevant email addresses.
-All complaints made to event organisers will remain confidential and be taken
+Complaints can be made to the committee by contacting the
+[committee mailing list](mailto:committee@plug.org.au), an individual committee
+ member or mailing list/forum moderators by contacting the relevant email addresses.
+All complaints made to committee members and moderators will remain confidential and be taken
 seriously. The complaint will be treated appropriately with discretion. Should
-event organisers or moderators consider it appropriate, measures they may take
+committee members or moderators consider it appropriate, measures they may take
 include:
 * the individuals may be told to apologise
 * the individuals may be told to stop/modify their behaviour appropriately
@@ -80,8 +81,7 @@ What does that mean for me?
 All participants, including event attendees and speakers must not engage in
 any intimidation, harassment, or abusive or discriminatory behaviour.
 
-Here are some examples of behaviours that have occurred at past events which
-are not appropriate:
+Here are some examples of behaviours which are not appropriate:
 
 * offensive verbal or written remarks related to gender, sexual orientation,
   disability, physical appearance, body size, race or religion;
@@ -90,7 +90,6 @@ are not appropriate:
 * stalking or following;
 * unwanted photography or recording;
 * sustained disruption of talks or other events;
-* non-consensual licking;
 * intoxication at an event venue;
 * inappropriate physical contact;
 * unwelcome sexual attention;
