@@ -1,7 +1,7 @@
-# Linux Australia Statement of Values
+# Perth Linux Users Group Statement of Values
 As an organisation, we aim to represent and assist the groups and individuals
-who make up the Free Software and Open Source communities in Australia. These
-communities are diverse in many ways, and the groups and individuals which
+who make up the Free Software and Open Source communities in Western Australia.
+These communities are diverse in many ways, and the groups and individuals which
 constitute them have many different needs that should be addressed and supported
 to the best of our ability. In doing so, it is our goal to uphold certain values
 reflecting the core philosophies around open source technologies. This statement
@@ -13,9 +13,9 @@ making of the organisation as a whole.
 
 
 ## Open Technology
-Linux Australia was founded with a focus on the Linux operating system but
-quickly evolved to embrace all facets of open technology. Open technology is a
-term encompassing openness in source code, standards, formats, licences and
+Perth Linux Users Group was founded with a focus on the Linux operating system
+but quickly evolved to embrace all facets of open technology. Open technology is
+a term encompassing openness in source code, standards, formats, licences and
 APIs. Whether for software sources, documents, hardware designs, images or works
 of art, we value the use of open licenses to promote the creative reuse of
 intellectual effort.
@@ -60,7 +60,10 @@ and walks of life are part of the communities we serve. We respect and encourage
 diversity at our conferences, events, and other activities.
 
 --------------------------------------------------------------------------------
-This statement expresses Linux Australia's core values to guide to our
+This statement expresses Perth Linux Users Groups's core values to guide to our
 organisation's decisions, projects and campaigns. This statement is not a
 binding policy on our members. Binding policy documents, codes of conduct or
 terms and conditions for events may refer to this statement.
+
+This statement was originally taken from Linux Australia's
+[Values Statement](http://linux.org.au/values) as it was at 2015-04-15.
