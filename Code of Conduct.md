@@ -1,4 +1,4 @@
-Code of Conduct (Draft)
+Code of Conduct
 ==========================
 
 This code of conduct applies to our community, at our monthly talks and other
